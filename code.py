@@ -90,3 +90,9 @@ with gr.Blocks(css=custom_css) as demo:
         outputs=output_box
     )
 demo.launch(debug=True)
+
+
+#Enter the Groq & Tavily API Key - (secret key) and run the code
+
+
+
